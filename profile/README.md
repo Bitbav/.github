@@ -16,3 +16,9 @@ Bitbav Team somos un equipo de desarrolladores que creamos varias aplicaciones s
    MicrOS es un sistema de linea de comandos
   - https://ggithub.com/Bitbav/MicrOS
  #
+
+Creado Por:
+
+[@Extvinilo](https://github.com/extvinilo)
+
+[@Madmaxmed](https://github.com/madmaxmed)
